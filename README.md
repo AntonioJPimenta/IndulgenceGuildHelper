@@ -30,11 +30,9 @@ Every time a player deposits gold and deposits or withdraws materials from the g
 
 ## Done:
 - Money transaction logs collected and stored, when opening guild bank
-- Addon broadcast channel created and working
-- Broadcast message sent when depositing money
+- Materials transaction logs collected and stored, when opening guild bank
 
 ## Todo:
-- Materials withdraw/deposit log
 - Sync between guild members
 
 ## Commands
