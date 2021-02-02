@@ -1,5 +1,19 @@
 # Indulgence Guild Helper
 
+## Version History
+
+### v1.0.9
+Added check mod - /ind check - queries all online players for addon version.
+
+### v1.0.8
+Added several time records to try and find out a reliable timestamp.
+Added logs to materials tabs. As usual, wipe all data after install - There will be a warning message after update
+
+### v1.0.6
+Changed log display - texture and fonts - /ind logs.
+Reversed display order on money logs - from newer to older
+Added variable to saved variables to warn users when addon is updated
+
 ### This addon was created to help Officers of the Indulgence guild, on Aggra/Grim-Batol(EU), to keep track of guild contributions to guild bank, either materials/consumables or gold.
 
 ### A log of transactions is stored in a couple auxiliary tables, stored in Saved Variables. This operation is required since Blizzard's API has a log size limit - only last 25 actions are stored.
