@@ -1,8 +1,0 @@
-## Interface: 90002
-## Title: IndulgenceGuildHelper
-## Notes: An addon used to track guild related stuff
-## Author: Antonio Pimenta
-## Version: 0.0.1
-## SavedVariables: indMatDeposits indGoldDeposits indGoldDepositsDate
-
-IndulgenceGuildHelper.lua
