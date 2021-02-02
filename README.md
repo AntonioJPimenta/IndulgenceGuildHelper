@@ -16,7 +16,7 @@
 
 ### This addon was created to help Officers of the Indulgence guild, on Aggra/Grim-Batol(EU), to keep track of guild contributions to guild bank, either materials/consumables or gold.
 
-### A log of transactions is stored in a couple auxiliary tables, stored in Saved Variables. This operation is required since Blizzard's API has a log size limit - only last 25 actions are stored.
+A log of transactions is stored in a couple auxiliary tables, stored in Saved Variables. This operation is required since Blizzard's API has a log size limit - only last 25 actions are stored.
 
 Each time a player opens the guild bank, this addon will scan transactions in all tabs, and also money log transaction logs.
 It will then perform data sync between live guild transation log and values stored in saved variables.
